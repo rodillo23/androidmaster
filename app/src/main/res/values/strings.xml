@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">AndroidMaster</string>
+    <!--    IMCApp-->
+    <string name="male">Hombre</string>
+    <string name="female">Mujer</string>
+    <string name="height">Altura</string>
+    <string name="weight">Peso</string>
+    <string name="age">Edad</string>
+    <string name="calculate">Calcular</string>
+    <string name="result">Tu Resultado</string>
+    <string name="reCalculate">Recalcular</string>
+
+    <string name="error">Error</string>
+    <string name="titleBajo">Bajo Peso</string>
+    <string name="descriptionBajo">Estás por debajo de lo óptimo para tu peso y altura</string>
+
+    <string name="titleNormal">Normal</string>
+    <string name="descriptionNormal">Estás en lo óptimo para tu peso y altura</string>
+
+    <string name="titleSobrepeso">Sobrepeso</string>
+    <string name="descriptionSobrepeso">Estás por encima de lo óptimo para tu peso y altura</string>
+
+    <string name="titleObesidad">Obesidad</string>
+    <string name="descriptionObesidad">Estás muy por encima de lo óptimo para tu peso y altura</string>
+
+    <!--    TodoApp-->
+    <string name="todoAppTitle">Bienvenido, Rodo.</string>
+    <string name="todoAppCategories">Categorias</string>
+    <string name="todoAppTasks">Tareas</string>
+    <string name="todo_dialog">Agrega una tarea</string>
+    <string name="todoDialogBusiness">Negocios</string>
+    <string name="todoDialogPersonal">Personal</string>
+    <string name="todoDialogOther">Otro</string>
+    <string name="todoDialogButton">Crear Tarea</string>
+    <string name="todoDialogTech">Tecnología</string>
+
+</resources>
